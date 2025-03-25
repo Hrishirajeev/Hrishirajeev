@@ -6,7 +6,7 @@
 [![Website Badge](https://img.shields.io/badge/StackOverflow-hrishirajeev-yellow)](https://stackoverflow.com/users/18290711/hrishi-rajeev)
 
 hii I'm hrishi rajeev ,
-  from tamilnadu...presently persuing degree in b.sc information technolgy.
+  from Kerala...presently persuing degree in b.sc information technolgy.
 I'm very much intrested in knowing technology and facts about computers!.now learning a new course called full-stack web development for gaining  more knowledge about the mechanism running behind the websites!
 
 
